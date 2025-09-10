@@ -1,0 +1,16 @@
+#For Database
+# Название базы данных PostgreSQL
+DB_NAME=''
+
+# Имя пользователя PostgreSQL, у которого есть доступ к БД
+DB_USER=''
+
+# Пароль от указанного пользователя
+DB_PASSWORD=''
+
+# Хост, где запущен сервер PostgreSQL (обычно localhost)
+DB_HOST=localhost
+
+# Порт, на котором работает PostgreSQL (по умолчанию 5432)
+DB_PORT=5432
+
